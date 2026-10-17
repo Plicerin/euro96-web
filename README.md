@@ -4,7 +4,11 @@ Play at https://plicerin.github.io/euro96-web/
 
 This repository contains the built website, WebAssembly game and game media. It is the publishing repository, not the restoration source repository.
 
-An unofficial restoration of Gremlin Interactive’s UEFA Euro 96 England. Original game, UEFA branding and other third-party artwork retain their respective ownership.
+A non-commercial, unofficial preservation and restoration of Gremlin Interactive’s UEFA Euro 96 England. Original code, game assets, names and branding retain their respective ownership; this project claims no ownership of the original game.
+
+Public restoration source: https://github.com/Plicerin/euro96-restoration
+
+Preserved upstream source: https://github.com/videogamepreservation/actuasoccer96
 
 Keyboard and standard gamepads are supported. Use the page’s Export backup / Import backup controls to transfer browser saves. Saves from localhost do not transfer automatically.
 
