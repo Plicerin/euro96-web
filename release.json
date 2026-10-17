@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "id": "2c69c5d64a1cd318e9b4789185e88d0a3e9f876192e48c808122b69111a1740f",
+  "id": "7c1de10563027497965f7fa199d791fcf7ffc63b4db68e8039228d60daaedf35",
   "label": "Browser preview",
   "files": [
     {
@@ -67,6 +67,11 @@
       "url": "screenshot-match.jpg",
       "bytes": 158471,
       "sha256": "fd30db4e460ed7ef49841f4b7991bd21e83bfbf4466ae48a389e9abecf0f877a"
+    },
+    {
+      "url": "favicon.svg",
+      "bytes": 105487,
+      "sha256": "5160413c5cfad172f152920dd66d0fede7975721e8876b87f6086dfa20a2043b"
     }
   ]
 }
