@@ -1,0 +1,1328 @@
+{
+  "schema": 2,
+  "restorationVersion": "0.70.0",
+  "preview": "browser-proof",
+  "files": [
+    {
+      "path": "/data/EURO.DAT",
+      "url": "assets/data/EURO.DAT",
+      "bytes": 12346272,
+      "sha256": "024accf02afeeeeebc43af649754191ac1b192f5c955fb5335e50d8acc2f7177"
+    },
+    {
+      "path": "/data/EURO.OFF",
+      "url": "assets/data/EURO.OFF",
+      "bytes": 968,
+      "sha256": "dd6952d351ac9335b931070eb97d3321ec5238b60a20530ed9b8098adb08df3a"
+    },
+    {
+      "path": "/data/EUROREND.DAT",
+      "url": "assets/data/EUROREND.DAT",
+      "bytes": 6613404,
+      "sha256": "0c38ab865fcd1d62d7c0f3f88b861f4c43643caf402dea6fbe9b0f042fd340cb"
+    },
+    {
+      "path": "/data/EUROREND.OFF",
+      "url": "assets/data/EUROREND.OFF",
+      "bytes": 1832,
+      "sha256": "96e6cea4bb91667cd204faa928696006048cf35a4e0baabefe83eca5d06dcb87"
+    },
+    {
+      "path": "/data/FAP.DAT",
+      "url": "assets/data/FAP.DAT",
+      "bytes": 1452928,
+      "sha256": "4eb101f8b8bd44eca0b8824400476e4a8dbb704eb43c926e4d5bea5dbba26ff3"
+    },
+    {
+      "path": "/data/FAP.OFF",
+      "url": "assets/data/FAP.OFF",
+      "bytes": 216,
+      "sha256": "3b12f01cf551a6c7866ddcfd6784d8b37b78e5cb4d7b5167278ed0a88e09227c"
+    },
+    {
+      "path": "/data/FAPF.DAT",
+      "url": "assets/data/FAPF.DAT",
+      "bytes": 279252,
+      "sha256": "be064e6f13b91e2ebad8451e787a1bfe085aef256fc328433b7112d751fc1a67"
+    },
+    {
+      "path": "/data/FAPF.OFF",
+      "url": "assets/data/FAPF.OFF",
+      "bytes": 32,
+      "sha256": "cc5b48e34a6fc64f61e8d64bd72fb73ffb81499a51ebd1c94ee10c8b8152a967"
+    },
+    {
+      "path": "/audio/GRAPHICS/TEAMS.BIN",
+      "url": "assets/audio/GRAPHICS/TEAMS.BIN",
+      "bytes": 2117004,
+      "sha256": "1cc6623642cc7ffde68ae89aa025e43f1eca8cd0e636440737fa9ca037727064"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO96.BIN",
+      "url": "assets/audio/GRAPHICS/EURO96.BIN",
+      "bytes": 2121544,
+      "sha256": "7bd7d9749f0382b5883b982e53e8c1fb6bd2143153f46c2d541eb2f11cebdb3a"
+    },
+    {
+      "path": "/audio/GRAPHICS/NUMBERS.BIN",
+      "url": "assets/audio/GRAPHICS/NUMBERS.BIN",
+      "bytes": 66920,
+      "sha256": "d0620d12ff1f16f870f9334bab17490e7dd1ae0dc101095c5770a271ff2b93a0"
+    },
+    {
+      "path": "/audio/GRAPHICS/PLAYERS.BIN",
+      "url": "assets/audio/GRAPHICS/PLAYERS.BIN",
+      "bytes": 399768,
+      "sha256": "8948cb40363e7b25a8429de2bea006a7993b499dba8335e635a406e54939ce7c"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_BOARDS.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_BOARDS.BIN",
+      "bytes": 4455300,
+      "sha256": "e9f1309f4f79ec3203f66b705f8f8afee87c2928d1060f2d7c6044931d4a4631"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM0.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM0.BIN",
+      "bytes": 466728,
+      "sha256": "a789bc72dcd43ae07c75e7bad7a4c9c2dd2700e5e83d24e462d44be5acdff7ba"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM1.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM1.BIN",
+      "bytes": 465050,
+      "sha256": "3c372a9b43e6f75676c754c2a0eb20ee30042f55d5697270f09d788a2778a00b"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM2.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM2.BIN",
+      "bytes": 464558,
+      "sha256": "8013f8671a95d7bc80dc37cc6f58fbb351210b7ac0174469edbd063571c72c69"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM3.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM3.BIN",
+      "bytes": 467532,
+      "sha256": "ba109a181bb1793b14447ae39b49d275c1d6e6d90bb88c3065041dd9f6fbbb41"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM4.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM4.BIN",
+      "bytes": 466816,
+      "sha256": "425b101d0c4c2121e437942cf007a6ea58e44d3ac0856d0cf4c40ce244693c63"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM5.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM5.BIN",
+      "bytes": 464526,
+      "sha256": "81510d36f973a78bf6b1798fa2fc0740001f82c814a5a0798e230794a9c33a7f"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM6.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM6.BIN",
+      "bytes": 464232,
+      "sha256": "3aac087a159db65f335eb3a8c071af306e8054ed66aa323c98c49cfc03896ea1"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_STADIUM7.BIN",
+      "url": "assets/audio/GRAPHICS/EURO_STADIUM7.BIN",
+      "bytes": 465126,
+      "sha256": "dbfdfe8a1bf0942dd414c1f8f3491f868e0c9189bb7479accab16e0ba0c22482"
+    },
+    {
+      "path": "/audio/COMMENTARY/EURO_EVENTS.BIN",
+      "url": "assets/audio/COMMENTARY/EURO_EVENTS.BIN",
+      "bytes": 26296580,
+      "sha256": "d2c82fa97a4cc65f89a3035c426a4e735b241c6b7dd2e2cf4db63a8935411223"
+    },
+    {
+      "path": "/audio/COMMENTARY/EURO_NAMES.BIN",
+      "url": "assets/audio/COMMENTARY/EURO_NAMES.BIN",
+      "bytes": 7408961,
+      "sha256": "5fb00bdbceac8bc64e7a479f26444a0228a80f64d14a0c99f454d6b8d293543e"
+    },
+    {
+      "path": "/audio/COMMENTARY/EURO_PERIODS.BIN",
+      "url": "assets/audio/COMMENTARY/EURO_PERIODS.BIN",
+      "bytes": 14418968,
+      "sha256": "0fb9a0fd1f0efdbbb94816fb837beaec77608872e9832edc2b25abe6a3bb062f"
+    },
+    {
+      "path": "/audio/COMMENTARY/EURO_SEQUENCES.BIN",
+      "url": "assets/audio/COMMENTARY/EURO_SEQUENCES.BIN",
+      "bytes": 12486684,
+      "sha256": "e30e8088eefcd7c4914d0f8c598d14e1248ede4bbf1c8ee2663c4f2eb80e0aab"
+    },
+    {
+      "path": "/audio/DIGI/PITCH/EURO_PITCH.MAD",
+      "url": "assets/audio/DIGI/PITCH/EURO_PITCH.MAD",
+      "bytes": 468866,
+      "sha256": "c5ade5874a5f2ebc50efff4683895b9d4dd6f8b567e8a7c1edca3dda8cbdea88"
+    },
+    {
+      "path": "/audio/DIGI/MUSIC/EURO96.WAV",
+      "url": "assets/audio/DIGI/MUSIC/EURO96.WAV",
+      "bytes": 12291570,
+      "sha256": "6146a38c1503a3d26c58b464be5acced75bf154a6ec67d692347a67bba5bba49"
+    },
+    {
+      "path": "/audio/DIGI/MUSIC/WIN.WAV",
+      "url": "assets/audio/DIGI/MUSIC/WIN.WAV",
+      "bytes": 155228,
+      "sha256": "09d35a75a771f332b846062d3ae7ca0b917840adf5b364dae25cf856b6b5c0ef"
+    },
+    {
+      "path": "/audio/DIGI/MUSIC/LOSE.WAV",
+      "url": "assets/audio/DIGI/MUSIC/LOSE.WAV",
+      "bytes": 177260,
+      "sha256": "3dda21007c5534cc953c394a6d82338db50d7c491d4e69d6f77ba72d1614647a"
+    },
+    {
+      "path": "/audio/DIGI/MUSIC/DRAW.WAV",
+      "url": "assets/audio/DIGI/MUSIC/DRAW.WAV",
+      "bytes": 166606,
+      "sha256": "eeb47c7406ccf267f5fc9fd14f5cffa676d853cda4079e24df3d3e9f029ee640"
+    },
+    {
+      "path": "/audio/GRAPHICS/EURO_PREVIEWS.INDEX",
+      "url": "assets/audio/GRAPHICS/EURO_PREVIEWS.INDEX",
+      "bytes": 668,
+      "sha256": "b122ff4591becabe74b97a58badff49b0920b3ff888e5b05f159bc61397dd94f",
+      "label": "Preview index"
+    }
+  ],
+  "optional": [
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_0.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_0.BIN",
+      "bytes": 617898,
+      "sha256": "01002a052379cedb4f714b81376ce58e5fc12a3be851bc1b2a95d9f189a4eac7",
+      "label": "Menu preview",
+      "key": "preview/0"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_1.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_1.BIN",
+      "bytes": 550767,
+      "sha256": "129311894aac438c81ebeaec358a2a8fd5fca20cf153dce8331bd913c260bf39",
+      "label": "Menu preview",
+      "key": "preview/1"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_2.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_2.BIN",
+      "bytes": 557089,
+      "sha256": "93f212d427627bdefa4f62827575de56dcbe56c8e59984d8b0d23d7325f4fcbe",
+      "label": "Menu preview",
+      "key": "preview/2"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_3.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_3.BIN",
+      "bytes": 548073,
+      "sha256": "1fe7335c5110691604eb3ead33a130eb4ea456e3eb65f7375fcbd4b44d1b02d7",
+      "label": "Menu preview",
+      "key": "preview/3"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_4.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_4.BIN",
+      "bytes": 556894,
+      "sha256": "2f6750e8249895c787cc0335a880b8143b1d887bbcd7df5c54f59824fb595962",
+      "label": "Menu preview",
+      "key": "preview/4"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_5.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_5.BIN",
+      "bytes": 552707,
+      "sha256": "c0b8af514860a248b04fe95c6fb03e73cdc5672ef182d695469acd9cd0c0c337",
+      "label": "Menu preview",
+      "key": "preview/5"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_6.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_6.BIN",
+      "bytes": 550116,
+      "sha256": "784e40e9fc1a0729c73e25eb3f571093bac52995c776e173257a20ac5dff26d8",
+      "label": "Menu preview",
+      "key": "preview/6"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_7.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_7.BIN",
+      "bytes": 624684,
+      "sha256": "c8015b87784f4ba1a0e874e52a7e06decc84b4cbf886cf84563f7fc4bd0bdcc5",
+      "label": "Menu preview",
+      "key": "preview/7"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_8.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_8.BIN",
+      "bytes": 586831,
+      "sha256": "cc23e59f2216e3790a8d7face3a4b2d388760a235179d71b234bba2d1c3cb05d",
+      "label": "Menu preview",
+      "key": "preview/8"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_9.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_9.BIN",
+      "bytes": 581945,
+      "sha256": "93deafa63b47a99d370926b474d75cff57f029c354070146ad649310fab348f0",
+      "label": "Menu preview",
+      "key": "preview/9"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_10.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_10.BIN",
+      "bytes": 582834,
+      "sha256": "9a1bde4e5083131dcd8ad0b119085eb9117fe0f523282feaefca3e52ce00cae8",
+      "label": "Menu preview",
+      "key": "preview/10"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_11.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_11.BIN",
+      "bytes": 578151,
+      "sha256": "3782547b1ef0af5b67773c610c25a71560c1888d83f9216e836019083a0a68a0",
+      "label": "Menu preview",
+      "key": "preview/11"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_12.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_12.BIN",
+      "bytes": 577232,
+      "sha256": "ad172a76f5524a93af5b06a3c4558ed105f83c228842f80c4e78d4be1f2050ac",
+      "label": "Menu preview",
+      "key": "preview/12"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_13.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_13.BIN",
+      "bytes": 617942,
+      "sha256": "7d307bf1ec59957641144d819bc4dd27e172cff066a77e4a4f4f0684d99c61ff",
+      "label": "Menu preview",
+      "key": "preview/13"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_14.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_14.BIN",
+      "bytes": 561087,
+      "sha256": "2f33afc5eb59c5526771741b6fa7baab1d6a500d182a93653b035197aef92f49",
+      "label": "Menu preview",
+      "key": "preview/14"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_15.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_15.BIN",
+      "bytes": 565665,
+      "sha256": "a9e7be15baaad48a004aaa3c040c0a666df54eaaceb023f21b9384d47f9cf59c",
+      "label": "Menu preview",
+      "key": "preview/15"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_16.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_16.BIN",
+      "bytes": 565673,
+      "sha256": "21b8e94dca02d483153ed38bbf6675a99ce67e9f87dd52cbcabcffb109f0aaae",
+      "label": "Menu preview",
+      "key": "preview/16"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_17.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_17.BIN",
+      "bytes": 566965,
+      "sha256": "2b800f02fc69cf64ce831fddd8374f6f3f044548cf8d934500053a6adbf0c4d5",
+      "label": "Menu preview",
+      "key": "preview/17"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_18.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_18.BIN",
+      "bytes": 565080,
+      "sha256": "23325da14e060550368c2b43ceebd33fce6c31721a65ab4d28d990c0b5e7e9de",
+      "label": "Menu preview",
+      "key": "preview/18"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_19.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_19.BIN",
+      "bytes": 620605,
+      "sha256": "b6e8a4b00fc01c6b9aa4aa0ea490408e4306520d93f5ae1b53fbf69063d660fa",
+      "label": "Menu preview",
+      "key": "preview/19"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_20.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_20.BIN",
+      "bytes": 625048,
+      "sha256": "621a23ed87988d40394d540904ff65e0d1a401d67a7029c098464b5cea9355e2",
+      "label": "Menu preview",
+      "key": "preview/20"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_21.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_21.BIN",
+      "bytes": 584872,
+      "sha256": "75dc5fd73c57fdc839be6da979bb290fef2b395cd7bec7daffa5e8259cdf9f33",
+      "label": "Menu preview",
+      "key": "preview/21"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_22.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_22.BIN",
+      "bytes": 584652,
+      "sha256": "ee66e3ec8576338d592791bc8dfc1619e368b13f10f08cd55af10ab286a88e10",
+      "label": "Menu preview",
+      "key": "preview/22"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_23.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_23.BIN",
+      "bytes": 580982,
+      "sha256": "eed2f95baedcc5f032939335f9b515aff9c5d9b8167367c2c961c792831af066",
+      "label": "Menu preview",
+      "key": "preview/23"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_24.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_24.BIN",
+      "bytes": 623950,
+      "sha256": "0660f970b25111de66e00347df0fbab9318518183dc9158d2eda60b3405ad27a",
+      "label": "Menu preview",
+      "key": "preview/24"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_25.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_25.BIN",
+      "bytes": 581307,
+      "sha256": "98432c147e053a6a557d34342e5acb2ab5a31f410cb84973152990fb18892d9c",
+      "label": "Menu preview",
+      "key": "preview/25"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_26.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_26.BIN",
+      "bytes": 615183,
+      "sha256": "b2ad8ab02e229d365218b3924e230646890a53464947ec4f0288cb722d271174",
+      "label": "Menu preview",
+      "key": "preview/26"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_27.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_27.BIN",
+      "bytes": 567475,
+      "sha256": "b95b07e1834944f9e8cbdeabc79add930e9690ecd80834959b020c04835afd93",
+      "label": "Menu preview",
+      "key": "preview/27"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_28.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_28.BIN",
+      "bytes": 552575,
+      "sha256": "757aea42330f316fc6a041807a507cde47c5312bff3d272e93bfcab53711aa85",
+      "label": "Menu preview",
+      "key": "preview/28"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_29.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_29.BIN",
+      "bytes": 570177,
+      "sha256": "07aba8dea6fea7e09f4bb58eff8fdd199e828d5a501ddcb85eb5c75b38b573af",
+      "label": "Menu preview",
+      "key": "preview/29"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_30.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_30.BIN",
+      "bytes": 615027,
+      "sha256": "be37fa9cba68c51e2428cffb3515cd2496e51cd3bb8c3f4bd6871699c6bc1e56",
+      "label": "Menu preview",
+      "key": "preview/30"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_31.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_31.BIN",
+      "bytes": 567527,
+      "sha256": "3d09adf471bf6f2c66b638c9531abb49e7dd50c266ae8f06fc11ef4235439461",
+      "label": "Menu preview",
+      "key": "preview/31"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_32.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_32.BIN",
+      "bytes": 560728,
+      "sha256": "bc9c73a8ac3414b7b75b4b0a870adb3e7983a464f99160dcec420c93f68af9b7",
+      "label": "Menu preview",
+      "key": "preview/32"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_33.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_33.BIN",
+      "bytes": 615291,
+      "sha256": "bcb1be63b72bfb96c4f04f171ddd5e8b23df4a903e713c134ac3c5341680e483",
+      "label": "Menu preview",
+      "key": "preview/33"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_34.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_34.BIN",
+      "bytes": 583097,
+      "sha256": "fc89db0d6075b8e38d173c0eebf741686d3eee6d58745278fda3dede58f744ab",
+      "label": "Menu preview",
+      "key": "preview/34"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_35.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_35.BIN",
+      "bytes": 587170,
+      "sha256": "4bb437692cd05b4de9be0f55e628290ccf7bd08bc1460b93897734949e0e4f5e",
+      "label": "Menu preview",
+      "key": "preview/35"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_36.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_36.BIN",
+      "bytes": 591652,
+      "sha256": "83155baf26016e335f86a903473345863e5cbff3ccfe2e0a0ece07c5736750b6",
+      "label": "Menu preview",
+      "key": "preview/36"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_37.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_37.BIN",
+      "bytes": 588705,
+      "sha256": "cdf25bbb4419e82885d05a09a43ba37d5d970df50b1a2ff2bed993d464fd0717",
+      "label": "Menu preview",
+      "key": "preview/37"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_38.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_38.BIN",
+      "bytes": 586909,
+      "sha256": "c0cc2f2e0d374afc8b1fae084e1b16cff86e8ed98b9e48affcc573cfdbb82a51",
+      "label": "Menu preview",
+      "key": "preview/38"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_39.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_39.BIN",
+      "bytes": 621464,
+      "sha256": "154c00ac906e396f150e1124638bb8a0b1b402a31a0c43cd46b5114f479d3696",
+      "label": "Menu preview",
+      "key": "preview/39"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_40.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_40.BIN",
+      "bytes": 573382,
+      "sha256": "a13962071ad47bc2d33ce55393c0220878d61f0c5fe53421efe2578a87e3285a",
+      "label": "Menu preview",
+      "key": "preview/40"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_41.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_41.BIN",
+      "bytes": 615291,
+      "sha256": "bcb1be63b72bfb96c4f04f171ddd5e8b23df4a903e713c134ac3c5341680e483",
+      "label": "Menu preview",
+      "key": "preview/41"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_42.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_42.BIN",
+      "bytes": 533930,
+      "sha256": "71839c101a60ed2e9c91a518f67b32b8d27465f193616991b4537931d10c87ff",
+      "label": "Menu preview",
+      "key": "preview/42"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_43.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_43.BIN",
+      "bytes": 530261,
+      "sha256": "da243494ed92347fe328cb1311e520adcc430a3b07e245cc116d8e1bfd451098",
+      "label": "Menu preview",
+      "key": "preview/43"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_44.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_44.BIN",
+      "bytes": 533601,
+      "sha256": "148f15e9e0594d1c0a149581a28723dfe46a634e06e29b8a35741cf1c4795437",
+      "label": "Menu preview",
+      "key": "preview/44"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_45.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_45.BIN",
+      "bytes": 530324,
+      "sha256": "fe781bf4853db51ad25734448bc087fbab084f7a554f57899db30ccde9397eb8",
+      "label": "Menu preview",
+      "key": "preview/45"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_46.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_46.BIN",
+      "bytes": 621370,
+      "sha256": "9b8926982516984a0bc44f10b8c72e9fb31500e53725a469765c4e9a19b26642",
+      "label": "Menu preview",
+      "key": "preview/46"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_47.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_47.BIN",
+      "bytes": 567997,
+      "sha256": "8f61dd682250bc54970125896804d3f8208af64a7d3c4d7708d6ef72c2cf6603",
+      "label": "Menu preview",
+      "key": "preview/47"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_48.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_48.BIN",
+      "bytes": 582952,
+      "sha256": "60c5e8baabd262b46d2c9263a10fd3476230eb0002500219bab7c5a9a7ad7acc",
+      "label": "Menu preview",
+      "key": "preview/48"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_49.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_49.BIN",
+      "bytes": 583363,
+      "sha256": "2190c1ce478063fbc3cea4f05d0939fed5e4866540b06b25ec4c206a50bbd5c9",
+      "label": "Menu preview",
+      "key": "preview/49"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_50.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_50.BIN",
+      "bytes": 590004,
+      "sha256": "635afbbfaa13d0047e6ae5643de589be8ae4cdb81b1f2fef4ba0e8caaf43f5de",
+      "label": "Menu preview",
+      "key": "preview/50"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_51.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_51.BIN",
+      "bytes": 581919,
+      "sha256": "bdd85ba74b7de09478d35697c648b7aaf5d7ac7650239bf83e4116caa57891a9",
+      "label": "Menu preview",
+      "key": "preview/51"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_52.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_52.BIN",
+      "bytes": 623909,
+      "sha256": "d2b643ae00c9cd2071997359bcd3da74d270c19950a1b4bdc805f8d0361cc0ce",
+      "label": "Menu preview",
+      "key": "preview/52"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_53.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_53.BIN",
+      "bytes": 590004,
+      "sha256": "635afbbfaa13d0047e6ae5643de589be8ae4cdb81b1f2fef4ba0e8caaf43f5de",
+      "label": "Menu preview",
+      "key": "preview/53"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_54.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_54.BIN",
+      "bytes": 603117,
+      "sha256": "5a43c0bcca6c33cc9c03408185f83498300261c218a1ca73ebf37f87e40fdd4d",
+      "label": "Menu preview",
+      "key": "preview/54"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_55.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_55.BIN",
+      "bytes": 589013,
+      "sha256": "107eaa92297521a1265eb49278ecb3cb857318ca381d754439172a8f7a52e66c",
+      "label": "Menu preview",
+      "key": "preview/55"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_56.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_56.BIN",
+      "bytes": 595598,
+      "sha256": "4cfaba105574fc4fea523aa3c1572ef127dc1066b5191015a4055b85ed482d39",
+      "label": "Menu preview",
+      "key": "preview/56"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_57.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_57.BIN",
+      "bytes": 589714,
+      "sha256": "22fdd23fb50caf0a8463d478b74a0748ec2da60112f4cdbf12c88e5f5b9b97b8",
+      "label": "Menu preview",
+      "key": "preview/57"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_58.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_58.BIN",
+      "bytes": 593254,
+      "sha256": "27718e4979e5e7caa7236c3a170fdd261feb416f793fce9a00402691f87a5ea6",
+      "label": "Menu preview",
+      "key": "preview/58"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_59.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_59.BIN",
+      "bytes": 590179,
+      "sha256": "2ec2eaf8d97eb1b72fa9ebf6c7449cefce0470fe302c8211c6528d75a5d21c68",
+      "label": "Menu preview",
+      "key": "preview/59"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_60.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_60.BIN",
+      "bytes": 630096,
+      "sha256": "cea4144c505f847ba71f3827ad1f1e985fdaf36d6d04ef744cf268f2b93886d5",
+      "label": "Menu preview",
+      "key": "preview/60"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_61.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_61.BIN",
+      "bytes": 559230,
+      "sha256": "1549bb4501fa71fb9e2aaf8358f0baefb9f3c82c3bbdc2bd094776602af4c779",
+      "label": "Menu preview",
+      "key": "preview/61"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_62.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_62.BIN",
+      "bytes": 557537,
+      "sha256": "130e31fb17419f7f03b7419df14cabc4870fcb74a73690e7c079ff4f9de6dcad",
+      "label": "Menu preview",
+      "key": "preview/62"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_63.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_63.BIN",
+      "bytes": 557264,
+      "sha256": "2eee8154ccd86144ca142722d444b54d5b0e5a8e236c6dd1e0a3f276868c2423",
+      "label": "Menu preview",
+      "key": "preview/63"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_64.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_64.BIN",
+      "bytes": 564866,
+      "sha256": "1250a38e64ca76333c99fad11ba2ec3580ff1a30d3617bcd3e5772727e132752",
+      "label": "Menu preview",
+      "key": "preview/64"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_65.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_65.BIN",
+      "bytes": 682264,
+      "sha256": "d84c9ed5634780bfdaa65d5bdca4962b5142706b33bb0f9f5b56bd692737fa30",
+      "label": "Menu preview",
+      "key": "preview/65"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_66.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_66.BIN",
+      "bytes": 621620,
+      "sha256": "941fc2e4bc5a2f78efdadb6568bad29261214bb6e7fa5f053deac158624298b6",
+      "label": "Menu preview",
+      "key": "preview/66"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_67.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_67.BIN",
+      "bytes": 564427,
+      "sha256": "7cb3869bc3f69aa759144f08b3af6b4c998511f088094217db568527783f70d1",
+      "label": "Menu preview",
+      "key": "preview/67"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_68.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_68.BIN",
+      "bytes": 569503,
+      "sha256": "585512be9c790303d58e6cbe46fb158efad283917db1d4a45443e775a1477605",
+      "label": "Menu preview",
+      "key": "preview/68"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_69.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_69.BIN",
+      "bytes": 575425,
+      "sha256": "91f9a5b75a451378fb59d8ad7efb33679e8022fded6049bbbc217f049d0dae3e",
+      "label": "Menu preview",
+      "key": "preview/69"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_70.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_70.BIN",
+      "bytes": 564437,
+      "sha256": "feaf85614a026584addc9297b5ce4125e5cd3a10d9aefcfb7c05c59a85481589",
+      "label": "Menu preview",
+      "key": "preview/70"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_71.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_71.BIN",
+      "bytes": 625117,
+      "sha256": "468a8e29fee6fcd3fea435e54e7e2b4b6b018ade8cd837c5a64d74e3db14e4c1",
+      "label": "Menu preview",
+      "key": "preview/71"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_72.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_72.BIN",
+      "bytes": 570283,
+      "sha256": "7a836ea7a010347be2317835151b7f389550a168a7d75d7f81df4fb101476e4c",
+      "label": "Menu preview",
+      "key": "preview/72"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_73.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_73.BIN",
+      "bytes": 623950,
+      "sha256": "0660f970b25111de66e00347df0fbab9318518183dc9158d2eda60b3405ad27a",
+      "label": "Menu preview",
+      "key": "preview/73"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_74.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_74.BIN",
+      "bytes": 561901,
+      "sha256": "337d47fae9f7a07723fcd085280e729beeb2ac1d47be266a53dee387aec4aea9",
+      "label": "Menu preview",
+      "key": "preview/74"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_75.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_75.BIN",
+      "bytes": 562289,
+      "sha256": "f637b2d1c70fdacdaa5f3d37a431fe8f90e145a51cac1a877b8d27a6d6c71ce7",
+      "label": "Menu preview",
+      "key": "preview/75"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_76.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_76.BIN",
+      "bytes": 567276,
+      "sha256": "dcc9e5d4fddffc1ca12ce58be86daf1563fe0bc8991543e40c9cbe67c6a447a1",
+      "label": "Menu preview",
+      "key": "preview/76"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_77.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_77.BIN",
+      "bytes": 621173,
+      "sha256": "6fa08344ff343decb69ad255b2389de101a6465525c3bf092f5fa948ba3b5566",
+      "label": "Menu preview",
+      "key": "preview/77"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_78.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_78.BIN",
+      "bytes": 563647,
+      "sha256": "1a33ece343fb3259165d8e7b24d3e92b86b871d5f56d8c6e77b00c081c95deb0",
+      "label": "Menu preview",
+      "key": "preview/78"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_79.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_79.BIN",
+      "bytes": 567532,
+      "sha256": "4e9f18fca5b333a316ada10a96c2b3e54e2f9bbd11402c97f3dda5384288e89e",
+      "label": "Menu preview",
+      "key": "preview/79"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_80.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_80.BIN",
+      "bytes": 618000,
+      "sha256": "93f7de5817587d5971d7fdc2f2b4caf95e25aeace02cd4398f91b0d1e286552b",
+      "label": "Menu preview",
+      "key": "preview/80"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_81.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_81.BIN",
+      "bytes": 574007,
+      "sha256": "fc873299e511dc06fe2ef8d57c33bf332383414a0b42274a6991dc718eeed975",
+      "label": "Menu preview",
+      "key": "preview/81"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_82.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_82.BIN",
+      "bytes": 576950,
+      "sha256": "f936161fefb5e57dbec63d70ebf6fd6d9c0202671142cc46634c2d777d5fa336",
+      "label": "Menu preview",
+      "key": "preview/82"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_83.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_83.BIN",
+      "bytes": 494011,
+      "sha256": "75440d4e47208ae6030b9edc5b09a17319745c1e39f3fa3895cf573003781a70",
+      "label": "Menu preview",
+      "key": "preview/83"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_84.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_84.BIN",
+      "bytes": 583375,
+      "sha256": "b5ca1823273bb22d29393e0c326ad7e6910dccc4c7aa9863e0515cae2cee6a01",
+      "label": "Menu preview",
+      "key": "preview/84"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_85.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_85.BIN",
+      "bytes": 625117,
+      "sha256": "468a8e29fee6fcd3fea435e54e7e2b4b6b018ade8cd837c5a64d74e3db14e4c1",
+      "label": "Menu preview",
+      "key": "preview/85"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_86.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_86.BIN",
+      "bytes": 442018,
+      "sha256": "9f847f6fc1e8eb6a7d408c1455ac1d2e7c7e10ead3121b727b46d72382966b43",
+      "label": "Menu preview",
+      "key": "preview/86"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_87.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_87.BIN",
+      "bytes": 443994,
+      "sha256": "23aeff1a951ea5757b37e73375960fd84e05bccecf38779e4c0ea71954ed192b",
+      "label": "Menu preview",
+      "key": "preview/87"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_88.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_88.BIN",
+      "bytes": 543039,
+      "sha256": "0ab4ddf9cc38af1a599ad08c8649b8c071bd5c135aa33e023e7194351c41f348",
+      "label": "Menu preview",
+      "key": "preview/88"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_89.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_89.BIN",
+      "bytes": 548598,
+      "sha256": "edd02cfd8f4e2a31e607e68b108f575724427f23f07d68a59fffb9d30d510e2d",
+      "label": "Menu preview",
+      "key": "preview/89"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_90.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_90.BIN",
+      "bytes": 621370,
+      "sha256": "9b8926982516984a0bc44f10b8c72e9fb31500e53725a469765c4e9a19b26642",
+      "label": "Menu preview",
+      "key": "preview/90"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_91.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_91.BIN",
+      "bytes": 581045,
+      "sha256": "e73392795707a322bdfd0e92fe17ef3cd450d8d5595e61610aed4a4095d1320b",
+      "label": "Menu preview",
+      "key": "preview/91"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_92.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_92.BIN",
+      "bytes": 578029,
+      "sha256": "2433b22308e2c8aabbad93d27b7c63762e50e7c00734698586c805e28793e7ae",
+      "label": "Menu preview",
+      "key": "preview/92"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_93.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_93.BIN",
+      "bytes": 577465,
+      "sha256": "cb76fe0b9deeb441f4ea503da28d3ca4c66d697105a09fbb64b9e54b2854af1f",
+      "label": "Menu preview",
+      "key": "preview/93"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_94.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_94.BIN",
+      "bytes": 584176,
+      "sha256": "a5ac6af86ba9441fe08b31944e1277691a3074ead72f50601cb5d6d714737601",
+      "label": "Menu preview",
+      "key": "preview/94"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_95.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_95.BIN",
+      "bytes": 625433,
+      "sha256": "7738e5f115c1309dfe41776afa86895a84d1cebc3fa0e8c9819abc91428e42f1",
+      "label": "Menu preview",
+      "key": "preview/95"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_96.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_96.BIN",
+      "bytes": 494116,
+      "sha256": "75ec807df81bca7dcbf5df7a74711fb464b7c4135109afb84796eef2d8302539",
+      "label": "Menu preview",
+      "key": "preview/96"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_97.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_97.BIN",
+      "bytes": 619574,
+      "sha256": "d6f2315725065753d5205b37c4b0982316cfd16a08e982b4b616f2491bbad983",
+      "label": "Menu preview",
+      "key": "preview/97"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_98.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_98.BIN",
+      "bytes": 499034,
+      "sha256": "1c5f811f4f87d69ece8a3f858e5f2145e97402a529c00de234f128f853842109",
+      "label": "Menu preview",
+      "key": "preview/98"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_99.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_99.BIN",
+      "bytes": 558850,
+      "sha256": "c14958150c29e37a1e6d0cfdd934b1933381322125472abdb9374cb72e58b042",
+      "label": "Menu preview",
+      "key": "preview/99"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_100.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_100.BIN",
+      "bytes": 496318,
+      "sha256": "82bf39e8f5ff828f206203fda3d9ec520d1e8c89a3f15f9be4fbb6b8fb372c69",
+      "label": "Menu preview",
+      "key": "preview/100"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_101.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_101.BIN",
+      "bytes": 3212191,
+      "sha256": "ea2da0b2a4d62a84e57c2f729592ed0c198360df52dc7dc5e9d76771424e1b93",
+      "label": "Menu preview",
+      "key": "preview/101"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_102.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_102.BIN",
+      "bytes": 2475062,
+      "sha256": "a9e1f18c073a20b46c04f1be7c9bf563fd1b12f3c38b5b9259ff1cab68e65ddb",
+      "label": "Menu preview",
+      "key": "preview/102"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_103.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_103.BIN",
+      "bytes": 2856646,
+      "sha256": "2bf33a8495c561230b37102f74803332f767bc5be0b5e95b99067c8f03634cda",
+      "label": "Menu preview",
+      "key": "preview/103"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_104.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_104.BIN",
+      "bytes": 2876458,
+      "sha256": "ac73af266f932bdf51ceace3879a229b635562b7628bb3714c8e69309ee6205c",
+      "label": "Menu preview",
+      "key": "preview/104"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_105.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_105.BIN",
+      "bytes": 3357155,
+      "sha256": "09072ab29f2b147b252a301a1db79ad3fff118e304489190a3721471b1e7667d",
+      "label": "Menu preview",
+      "key": "preview/105"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_106.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_106.BIN",
+      "bytes": 2532095,
+      "sha256": "c4a2dfc31ea1ed876d066102cfa6ec3570f19e32f2ce68483028351b80ec05a5",
+      "label": "Menu preview",
+      "key": "preview/106"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_107.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_107.BIN",
+      "bytes": 2498974,
+      "sha256": "faaf5c80a00724dbe17f08e89ee8922f536cd9c3aff1f3f2ca87a0911c9c045f",
+      "label": "Menu preview",
+      "key": "preview/107"
+    },
+    {
+      "path": "/audio/GRAPHICS/PREVIEW_108.BIN",
+      "url": "assets/audio/GRAPHICS/PREVIEW_108.BIN",
+      "bytes": 2803820,
+      "sha256": "0aac63e5d852ba5504907e31345d2facf5a9b36de67eda0a36dd3cde7a8a5cba",
+      "label": "Menu preview",
+      "key": "preview/108"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_0.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_0.BIN",
+      "bytes": 14327268,
+      "sha256": "2f23e7432b33b67c0612bb5ffeb234fd005d41091e20d75f1e68fb136a97fb0a",
+      "label": "Trophy film",
+      "key": "trophy/0"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_1.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_1.BIN",
+      "bytes": 14325414,
+      "sha256": "8be22fe334d8e2404093c6cc6586c75314a94fa4fb90f0c59f6712b53c81d793",
+      "label": "Trophy film",
+      "key": "trophy/1"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_2.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_2.BIN",
+      "bytes": 14399811,
+      "sha256": "04201108e3fa581473eaf6bb3d4365f8c99de6901015f22c13a7358c6fa53c63",
+      "label": "Trophy film",
+      "key": "trophy/2"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_3.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_3.BIN",
+      "bytes": 14423020,
+      "sha256": "aa16c5694bdebbded7c26f12ffe4bbfdf04a696504276f2986122a0210cd2dd0",
+      "label": "Trophy film",
+      "key": "trophy/3"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_4.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_4.BIN",
+      "bytes": 14675356,
+      "sha256": "9c7c4b427c3b37f81be9ee9c603cb3a4af32617d6b201fa3d58af82f199f9b81",
+      "label": "Trophy film",
+      "key": "trophy/4"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_5.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_5.BIN",
+      "bytes": 14451478,
+      "sha256": "9364d444c9ae9794bc8dd4a87d152ec878c1907be80c2f5f46c84861199e1250",
+      "label": "Trophy film",
+      "key": "trophy/5"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_6.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_6.BIN",
+      "bytes": 14740163,
+      "sha256": "258bf8b5317d905c5b2c5457f2ac24d3dbf8b5198d90886a3eb28e2f5bab8c02",
+      "label": "Trophy film",
+      "key": "trophy/6"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_7.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_7.BIN",
+      "bytes": 14395538,
+      "sha256": "7dfc5b61ccdb5fb8a6a952f52be31a2d2418206b1e66cb24c97a583613f0ce87",
+      "label": "Trophy film",
+      "key": "trophy/7"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_8.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_8.BIN",
+      "bytes": 14419907,
+      "sha256": "eac0193990aa9288bc087fb25357f6297e2cd613c000da6880e8bc00860064f5",
+      "label": "Trophy film",
+      "key": "trophy/8"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_9.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_9.BIN",
+      "bytes": 14413900,
+      "sha256": "dacbaa532c95fedff5732eba17ec8b0de91a8c0f5ad8c11f5b3ad3fd390298c8",
+      "label": "Trophy film",
+      "key": "trophy/9"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_10.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_10.BIN",
+      "bytes": 14318198,
+      "sha256": "b32c07bb0e3f3c016a112de2dfd5956b9554f3dcd996a366a952b2f7beb85867",
+      "label": "Trophy film",
+      "key": "trophy/10"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_11.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_11.BIN",
+      "bytes": 14715948,
+      "sha256": "734fef992f03cc7571183bcac74d49250a937678f8ba76b0816674d4a6cc9b0a",
+      "label": "Trophy film",
+      "key": "trophy/11"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_12.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_12.BIN",
+      "bytes": 14476588,
+      "sha256": "e33b3de8c6ff9bee20c678f1d87ecb434d21edb89e7a4ed579996e7af51f873a",
+      "label": "Trophy film",
+      "key": "trophy/12"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_13.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_13.BIN",
+      "bytes": 14373378,
+      "sha256": "07bcf94533632dce9511621b334609bf8aa13b1727d7991fb5644b03748e94d4",
+      "label": "Trophy film",
+      "key": "trophy/13"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_14.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_14.BIN",
+      "bytes": 14377574,
+      "sha256": "b79b5971f33372963cdf3f1f58ea50b73ae7a055cc5bd9381dc2056c7d02a656",
+      "label": "Trophy film",
+      "key": "trophy/14"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_15.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_15.BIN",
+      "bytes": 14697328,
+      "sha256": "9c92187c987c0cfd4d5c80baf914954907ca97bdd7c2cdd186dc79051b7334f1",
+      "label": "Trophy film",
+      "key": "trophy/15"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_16.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_16.BIN",
+      "bytes": 14419552,
+      "sha256": "1c412ef741156b5b23eb933e993d66a0fdd0bd9056ef1a449e01943a07c4dfa1",
+      "label": "Trophy film",
+      "key": "trophy/16"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_17.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_17.BIN",
+      "bytes": 14453305,
+      "sha256": "2588de847cd1f040578e8997422c620295914e4c9606d65ecee22e1f395af3ec",
+      "label": "Trophy film",
+      "key": "trophy/17"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_18.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_18.BIN",
+      "bytes": 14409546,
+      "sha256": "90f4eb45c2b07c23f34fe176092b18b1625dc0890c0de74c7a0502f8fe11955e",
+      "label": "Trophy film",
+      "key": "trophy/18"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_19.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_19.BIN",
+      "bytes": 14446631,
+      "sha256": "2fec547ba6f34bae2d44f1254bcb1f548d9489b4b7a68d45ccdd32de23688697",
+      "label": "Trophy film",
+      "key": "trophy/19"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_20.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_20.BIN",
+      "bytes": 14688973,
+      "sha256": "0946c908178733beb89ff73ec822b779f9f3948608547562e5dbae902a229a20",
+      "label": "Trophy film",
+      "key": "trophy/20"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_21.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_21.BIN",
+      "bytes": 14472945,
+      "sha256": "c7a9d8cec9b282c91d8651398197b49c9345e65cc38153aedd664375c0205abe",
+      "label": "Trophy film",
+      "key": "trophy/21"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_22.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_22.BIN",
+      "bytes": 14658973,
+      "sha256": "5f852fb9472d66048e993a20a49a0a23acde11ac72b7869c4f16e15af56d2505",
+      "label": "Trophy film",
+      "key": "trophy/22"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_23.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_23.BIN",
+      "bytes": 14451216,
+      "sha256": "0b100b232405842f4cf4f852d58104f4ee67a92245dc9f34b0f0840f146d2014",
+      "label": "Trophy film",
+      "key": "trophy/23"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_24.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_24.BIN",
+      "bytes": 14435739,
+      "sha256": "4c5b8b4dbf80d8338ff22091debf0996a1491ef79185c490e4f43d14d9e62ce8",
+      "label": "Trophy film",
+      "key": "trophy/24"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_25.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_25.BIN",
+      "bytes": 14405807,
+      "sha256": "ae53dffb01ce6126713e0f65195662229d76771271bd2dba4351cb4aed8e9385",
+      "label": "Trophy film",
+      "key": "trophy/25"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_26.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_26.BIN",
+      "bytes": 14413922,
+      "sha256": "d2673a8179b4267f5887e4e12f39306ac9a795a10bb1df1d667fd1ddb49e85e4",
+      "label": "Trophy film",
+      "key": "trophy/26"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_27.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_27.BIN",
+      "bytes": 14703319,
+      "sha256": "60389fb28a39d9086ded69ee0135cfcb6c4c99a163a6cb5853b0c19e298f5990",
+      "label": "Trophy film",
+      "key": "trophy/27"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_28.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_28.BIN",
+      "bytes": 14382772,
+      "sha256": "897e15919c883e0269458cb69fe3e78b28040d84f40390448f611a2d510ae0cb",
+      "label": "Trophy film",
+      "key": "trophy/28"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_29.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_29.BIN",
+      "bytes": 14372554,
+      "sha256": "8b8ac77646d6f982106a7c344d37f2eb0819fe125e55b9ee20775a2e0dde675e",
+      "label": "Trophy film",
+      "key": "trophy/29"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_30.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_30.BIN",
+      "bytes": 14427825,
+      "sha256": "18b2def6f6e45eeb08e3ff629187a85e48b09cfa2dfb0ce7b87e51a8befd9532",
+      "label": "Trophy film",
+      "key": "trophy/30"
+    },
+    {
+      "path": "/audio/VIDEO/EURO_CUP_31.BIN",
+      "url": "assets/audio/VIDEO/EURO_CUP_31.BIN",
+      "bytes": 14660222,
+      "sha256": "c0b8f5567bf074c6bd783518ece9865dd1b6b397b89ed71209ee69bb0b581bed",
+      "label": "Trophy film",
+      "key": "trophy/31"
+    }
+  ],
+  "excluded": [
+    "French commentary",
+    "Actua compatibility packs"
+  ]
+}

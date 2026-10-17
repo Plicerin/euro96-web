@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>UEFA Euro 96 · Browser preview</title>
+  <link rel="icon" href="data:,">
+  <link rel="stylesheet" href="browser.css?sha256=d40efc1d6cf7b9ef4a1c66bf59e553c1b5378663f1c5678032503a2917256bd9">
+  <script defer src="boot.js?sha256=ab897a3a5e13a3b19a4750a5af2fdb0311fae83ce2ebd3c48b5b824d36ab4a42"></script>
+</head>
+<body>
+  <header><div class="brand"><div class="brand-badge"><img src="euro96-logo.png?sha256=2a1c268fc4f47b614334403393796b9efeb635ac97dbd3f7fd5a0eb976fdf5ac" width="800" height="1078" alt="UEFA Euro 96 England emblem"></div>
+    <div><strong>UEFA EURO 96</strong><span>Browser preview · original gameplay</span></div></div>
+    <div class="display-controls"><label for="presentation">View</label>
+    <select id="presentation"><option value="720">Widescreen</option><option value="0">Classic</option></select>
+    <label for="textures">Textures</label>
+    <select id="textures" title="Enhanced pitch and stadium textures in Widescreen"><option value="enhanced">Enhanced</option><option value="original">Original</option></select>
+    <button id="fullscreen" disabled>Fullscreen</button></div></header>
+  <main>
+    <div id="stage">
+      <canvas id="canvas" width="1200" height="830" tabindex="0" aria-label="UEFA Euro 96 game"></canvas>
+      <section id="launch" aria-label="Start game">
+        <div class="launch-copy">
+        <p class="eyebrow">WINDOWS RESTORATION → BROWSER</p>
+        <h1>The original game.<br>A new place to play.</h1>
+        <p id="status" role="status">Preparing the game…</p>
+        <progress id="progress" value="0" max="1" aria-label="Game loading progress"></progress>
+        <div class="actions"><button id="start" disabled>Play Euro 96</button>
+          <button id="watch" disabled>Watch CPU vs CPU</button></div>
+        <p class="note">Play with a keyboard or gamepad. Includes match graphics, music and English commentary.<br>Animated menu previews and trophy films download when you open them.</p>
+        </div>
+        <img class="launch-mascot" src="euro96-mascot.png?sha256=c6e54c16c36809e749be85aae8b834ea76b0cb0bf2b31e740675f81f95270831" width="1254" height="1254" alt="Euro 96 lion mascot playing football">
+      </section>
+    </div>
+    <section class="match-gallery" aria-labelledby="gallery-title">
+      <div class="gallery-heading"><h2 id="gallery-title">Back on the pitch</h2><p>Captured from this restoration · Widescreen, enhanced textures</p></div>
+      <div class="gallery-shots">
+        <figure><a href="screenshot-lineup.jpg?sha256=e592b47845e2a9ee495b787850b8a24537fc0400bcd0d6fb9c43308af4378463" target="_blank" rel="noopener" aria-label="Enlarge the team lineup screenshot (opens in a new tab)"><img src="screenshot-lineup.jpg?sha256=e592b47845e2a9ee495b787850b8a24537fc0400bcd0d6fb9c43308af4378463" width="1190" height="670" loading="lazy" decoding="async" alt="England and Scotland line up on the pitch before kick-off"></a><figcaption><strong>Before kick-off</strong><span>The teams take the field.</span></figcaption></figure>
+        <figure><a href="screenshot-match.jpg?sha256=fd30db4e460ed7ef49841f4b7991bd21e83bfbf4466ae48a389e9abecf0f877a" target="_blank" rel="noopener" aria-label="Enlarge the match screenshot (opens in a new tab)"><img src="screenshot-match.jpg?sha256=fd30db4e460ed7ef49841f4b7991bd21e83bfbf4466ae48a389e9abecf0f877a" width="1190" height="670" loading="lazy" decoding="async" alt="England and Scotland playing a match in the restored 3D stadium"></a><figcaption><strong>Match day</strong><span>The original game, in widescreen.</span></figcaption></figure>
+      </div>
+    </section>
+    <section class="controls" aria-label="Game controls">
+      <div><h2>Gamepad <span>Xbox-style buttons</span></h2>
+        <p>Left stick / D-pad: move · A: pass / control ball · X: shoot / tackle · Y: lofted pass · LB / RB: switch player · Start: pause / resume</p>
+        <p class="note">Connect your controller, click the game, then press a controller button. In exhibition setup, A starts Play and Y selects Watch.</p></div>
+      <div><h2>Keyboard</h2>
+        <p>Arrows / WASD: move · Space: pass / control ball · X: shoot / tackle · C: lofted pass · E: switch player · P: pause / resume</p>
+        <p class="note">Enter confirms menus and starts Play. B selects Watch in exhibition setup. Open the pause menu for the full ball controls.</p></div>
+    </section>
+    <footer>
+      <a class="original-game-link" href="https://en.wikipedia.org/wiki/UEFA_Euro_96_England" target="_blank" rel="noopener noreferrer">About the original game <span>(Wikipedia · opens in a new tab)</span></a>
+      <div><span id="media-status" role="status"></span><button id="retry-media" hidden>Retry media</button></div>
+      <div><span id="storage" role="status">Opening browser saves…</span>
+        <button id="retry-save" hidden>Retry save</button></div></footer>
+    <section class="save-tools" aria-label="Save backups">
+      <div><h2>Your saves, anywhere</h2><p>Back up your championship, preferences and saved replays, then import them in another browser or computer.</p>
+        <p class="note" id="import-note">Import a backup before starting the game. Clearing browser site data removes local saves.</p></div>
+      <div class="save-actions"><button id="export-save" disabled>Export backup</button><button id="import-save" disabled>Import backup</button>
+        <input id="save-file" type="file" accept=".json,application/json" hidden></div>
+      <p id="transfer-status" role="status"></p>
+    </section>
+    <div class="update-tools"><button id="check-update">Check for updates</button><span id="update-status" role="status">Game assets are cached after verification for faster repeat visits.</span></div>
+    <dialog id="import-review" aria-labelledby="import-title"><h2 id="import-title">Restore this save backup?</h2>
+      <p id="import-summary"></p><pre id="import-files"></pre>
+      <p>Matching saves will be replaced. Other saves will stay. A backup of your current saves will download first.</p>
+      <div class="actions"><button id="cancel-import">Cancel</button><button id="confirm-import">Restore backup</button></div>
+    </dialog>
+    <details><summary>Technical log</summary><pre id="log"></pre></details>
+  </main>
+</body>
+</html>
