@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "id": "f04e0051537b7a4c919a372bbc4faa96307454e0087bbe71485dcc9001ca72a9",
+  "id": "2c69c5d64a1cd318e9b4789185e88d0a3e9f876192e48c808122b69111a1740f",
   "label": "Browser preview",
   "files": [
     {
@@ -45,8 +45,8 @@
     },
     {
       "url": "saves.js",
-      "bytes": 3477,
-      "sha256": "35da90b3dcf90865382ea8212ed3ec1de11ff9a8dc59c4871add6293c66b1014"
+      "bytes": 4368,
+      "sha256": "7c74c1ac9b5a0a8c0cc76d8b2a243d0ad54d8e285fa51ea5545d379f55f30cc7"
     },
     {
       "url": "euro96-logo.png",

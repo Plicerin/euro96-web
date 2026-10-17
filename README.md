@@ -14,4 +14,6 @@ Keyboard and standard gamepads are supported. Use the page’s Export backup / I
 
 Original game: https://en.wikipedia.org/wiki/UEFA_Euro_96_England
 
-Published web release: `f04e0051537b7a4c919a372bbc4faa96307454e0087bbe71485dcc9001ca72a9`.
+Published web release: `2c69c5d64a1cd318e9b4789185e88d0a3e9f876192e48c808122b69111a1740f`.
+
+[Security review and limitations](SECURITY-REVIEW.md)
